@@ -7,7 +7,7 @@ IT인의 축제 인프콘에서 방명록을 남기고 서로 네트워킹해보
 
 
 
-### 방명록 양식 (미리 복사해주세요!)
+### 방명록 양식
 
 - 프로필 url이 없을 경우 https://avatar.tobi.sh/tobiaslins.svg?text=INF 좌측 parameter에 본인의 이니셜로 변경해주세요.
   - 예시)`https://avatar.tobi.sh/tobiaslins.svg?text=DY`
@@ -17,7 +17,7 @@ IT인의 축제 인프콘에서 방명록을 남기고 서로 네트워킹해보
 ```
 ---
 name: 이름
-image: https://avatar.tobi.sh/tobiaslins.svg?text=INF
+image: https://avatar.tobi.sh/tobiaslins.svg?text={{이니셜}}
 emoji: 🥳
 message: 인사말
 facebook: 계정 아이디 / 없으면 해당 라인 삭제하셔도 됩니다.
