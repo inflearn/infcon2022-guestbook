@@ -1,0 +1,16 @@
+---
+name: 최향근
+
+# https://github.com/HyangKeunChoi
+# https://avatar.tobi.sh/tobiaslins.svg?text=
+# 깃허브 프로필 이미지 대신 위 주소로 이니셜이 적힌 이미지도 사용가능합니다
+image: https://github.com/HyangKeunChoi.png
+
+emoji: 🥳
+
+message: 인사말
+
+# 없으면 해당 라인 삭제하셔도 됩니다. 
+# github 계정아이디는 본인 프로필 페이지 URL에서 확인하실수 있습니다. e. g. github.com/본인 id
+github: https://github.com/HyangKeunChoi
+---

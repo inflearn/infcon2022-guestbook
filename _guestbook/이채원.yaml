@@ -1,0 +1,25 @@
+---
+name: 이채원
+
+# 깃허브 아이디를 입력하시면 프로필 이미지가 보입니다.
+# https://avatar.tobi.sh/tobiaslins.svg?text=이니셜
+# 깃허브 프로필 이미지 대신 위 주소로 이니셜이 적힌 이미지도 사용가능합니다
+image: https://github.com/cw001121.png 
+
+emoji: 🥳
+
+message: 안녕하세요! 
+
+# 없으면 해당 라인 삭제하셔도 됩니다.  
+# github 계정아이디는 본인 프로필 페이지 URL에서 확인하실수 있습니다. e. g. github.com/본인 id
+github: cw001121
+
+# 없으면 해당 라인 삭제하셔도 됩니다.
+# facebook 계정아이디는 본인 프로필 페이지 URL에서 확인하실수 있습니다. 
+# e. g. facebook.com/profile.php?id=본인  id 혹은 facebook.com/본인 id
+# facebook: 계정 아이디
+
+# 없으면 해당 라인 삭제하셔도 됩니다.
+# twitter 계정아이디는 본인 프로필 페이지 URL에서 확인하실수 있습니다. e. g. twitter.com/{{id}}
+# twitter: 계정 아이디
+---

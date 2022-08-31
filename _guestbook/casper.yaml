@@ -1,0 +1,14 @@
+---
+name: gosuhee
+
+# 깃허브 아이디를 입력하시면 프로필 이미지가 보입니다.
+# https://avatar.tobi.sh/tobiaslins.svg?text=shg
+# 깃허브 프로필 이미지 대신 위 주소로 이니셜이 적힌 이미지도 사용가능합니다
+image: https://github.com/7loro.png 
+
+emoji: 👻
+
+github: 7loro
+
+message: 오프라인 컨퍼런스 정말 오랜만인데, 재밌고 유익한 시간이라 준비해주신 인프런 관계자 분들과 발표자분들께 감사드립니다~! 군말 안 하고 보내준 회사에도 감사합니다! 🙇‍♂️
+---

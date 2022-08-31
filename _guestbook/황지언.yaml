@@ -1,15 +1,16 @@
 ---
-name: 이광민
+name: 황지언
 
 # 깃허브 아이디를 입력하시면 프로필 이미지가 보입니다.
 # https://avatar.tobi.sh/tobiaslins.svg?text=이니셜
 # 깃허브 프로필 이미지 대신 위 주소로 이니셜이 적힌 이미지도 사용가능합니다
-image: https://github.com/Leekwang-min.png 
+image: https://github.com/hju976.png 
 
 emoji: 🥳
 
-message: 안녕하세요 0년차 프론트엔드 개발자 이광민입니다!
+message: 안녕하세요
 
 # 없으면 해당 라인 삭제하셔도 됩니다. 
 # github 계정아이디는 본인 프로필 페이지 URL에서 확인하실수 있습니다. e. g. github.com/본인 id
-github: LeeKwang-min
+github: hju976
+---
